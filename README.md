@@ -8,6 +8,8 @@ The aim of this project is to predict house prices using machine learning models
 ***Keywords:***
 *House Price Prediction, Machine Learning, Linear Regression, Decision Tree, Random Forest, SVM, KNN, Mean Squared Error, R-squared.*
 
+**DATASET INFORMATION:** The dataset for this project is taken from Kaggle.('Housing.csv') Link for Dataset:https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
+
 **Introduction:**
 
 Predicting house prices is a crucial task in the real estate industry. Accurate house price predictions help buyers, sellers, and real estate agents make informed decisions. Machine learning models can be employed to analyze historical data and identify patterns that influence house prices. In this project, we use a dataset containing information about various features of houses and their corresponding prices. We aim to build and evaluate multiple regression models to predict house prices accurately.
